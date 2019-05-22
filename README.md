@@ -5,6 +5,9 @@
 - 2019.05.20 这个作者竟然在加密js中隐藏了广告植入,挨千刀
 
 - 2019.05.20 有些群友反馈 
+
+- 整理现有的，删掉了一个重复的（代码完全一样），另把代码全都标注V10 or V8
+
 ``` js
 var killErrors=function(value){return true};window.onerror=null; 
 ```
@@ -669,7 +672,7 @@ var MacPlayer = {
 MacPlayer.Init();
 ```
 
-### 网站流传版
+### 网站流传版  V8版本
 
 来源网站:https://leoi.info/blog/43.html#cmt656
 
